@@ -1,1 +1,1 @@
-Ejemplo de prueba de git diff
+Prueba de ejemplo de git diff
